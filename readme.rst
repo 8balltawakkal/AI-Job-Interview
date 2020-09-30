@@ -1,20 +1,19 @@
 ###################
-Natural-language processing
+自然言語処理
 ###################
 
-is a field of computer science, artificial intelligence concerned with the interactions between computers and human (natural) languages, and, in particular, concerned with programming computers to fruitfully process large natural language data.
+はコンピュータサイエンスの分野であり、コンピュータと人間の（自然）言語との相互作用に関係する人工知能であり、特に、大きな自然言語データを実りある方法で処理するためのコンピュータのプログラミングに関係しています。
 
-Challenges in natural-language processing frequently involve speech recognition, natural-language understanding, and natural-language generation.
+自然言語処理の課題には、音声認識、自然言語理解、自然言語生成が含まれることがよくあります。
 
 *******************
 CodeIgniter
 *******************
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
-
+CodeIgniterは、人々のためのアプリケーション開発フレームワーク（ツールキット）です。
+PHPを使用してWebサイトを構築する人。その目標は、プロジェクトを開発できるようにすることです
+コードを最初から作成する場合よりもはるかに高速で、
+一般的に必要なタスク用の豊富なライブラリセットと、シンプルな
+これらのライブラリにアクセスするためのインターフェイスと論理構造。 CodeIgniterは
+必要なコードの量を最小限に抑えることで、プロジェクトに創造的に集中できます
+特定のタスクに対して。
